@@ -1,7 +1,7 @@
 #### Milestone Project 1: Browser Game | Software development bootcamp | The University of Chicago
 #### 2023 © - Adventure of Von -Created by Thilini Dharmawardhana. All Rights Reserved.
 
-# Adventure of Von -2D browser game
+# Adventure of Von -2D Browser Game
 
 A Adventure girl running 2D browser game where the objective is to move forward then jump and avoiding obstacles to achieve a higher score. Once you hit the obstacle then you will lose the game.
 
@@ -53,6 +53,7 @@ A Adventure girl running 2D browser game where the objective is to move forward 
 
 - **HTML** styling language used to format and visually build upon the accompanying HTML.
 - **JavaScript** scripting language used to develop web pages and allows developers to create a dynamic and interactive experience for the user.
+- **CSS** A styling language used to visually enhance and style HTML elements, allowing developers to create an aesthetically pleasing and responsive user interface.
 - **Github**  Used to host the deployed repository of all previous versions of the build.
 - **Visual Studio Code**   is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
